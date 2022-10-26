@@ -1,4 +1,4 @@
-# zall-sdk-minigame# 1. 集成SDK
+ 1. 集成SDK
 
 ## 1.1. 引入 SDK
 
